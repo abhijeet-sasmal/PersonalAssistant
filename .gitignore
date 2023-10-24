@@ -1,0 +1,3 @@
+chatbot/models
+chatbot/.rasa
+*.pyc
